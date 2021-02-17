@@ -2,7 +2,7 @@
  # CIS 350 W2021 Connor Boerma # 
 
  #### Interests #### 
- - Nueral Networks
+ - Neural Networks
  - Machine Learning
  - Game Development
 
