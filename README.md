@@ -1,5 +1,4 @@
 # CIS350-HW2-Boerma
- # CIS 350 W2021 Connor Boerma # 
 
  #### Interests #### 
  - Neural Networks
